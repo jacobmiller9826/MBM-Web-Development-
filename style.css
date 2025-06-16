@@ -142,9 +142,18 @@ h1, h2, h3 {
   100% { top: -200%; transform: rotateX(25deg) translateZ(-1000px); }
 }
 
+.title p {
+  font-size: 28px;
+}
+
 .title h1 {
-  font-size: 32px;
-  margin: 0;
+  font-size: 48px;
+  margin: 10px 0;
+}
+
+.crawl p {
+  font-size: 22px;
+  line-height: 1.6;
 }
 
 /* Main Content */
